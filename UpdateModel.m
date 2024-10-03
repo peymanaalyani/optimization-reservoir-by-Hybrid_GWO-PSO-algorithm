@@ -8,7 +8,7 @@ function model=UpdateModel(x)
     fprintf(fid,'/\n');
     fclose(fid);
 
-  %% Command to run ECLIPSE
+ 
    
 
   %% read .RSM file
