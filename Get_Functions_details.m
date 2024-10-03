@@ -27,7 +27,7 @@ end
 function o = F1(x)
 
 
-              model=UpdateModel(x);
+              
 
 
 
